@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dexter N. Dean | Academic</title>
+    <link>/author/dexter-n.-dean/</link>
+      <atom:link href="/author/dexter-n.-dean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dexter N. Dean</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dexter N. Dean</title>
+      <link>/author/dexter-n.-dean/</link>
+    </image>
+    
+    <item>
+      <title>Cause and consequence of Aβ – Lipid interactions in Alzheimer disease pathogenesis</title>
+      <link>/publication/rangachari-2018-cause/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rangachari-2018-cause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propagation of an Aβ Dodecamer Strain Involves a Three-Step Mechanism and a Key Intermediate</title>
+      <link>/publication/dean-2018-propagation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dean-2018-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatty Acid Concentration and Phase Transitions Modulate Aβ Aggregation Pathways</title>
+      <link>/publication/rana-2017-fatty/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rana-2017-fatty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strain-specific fibril propagation by an Aβ dodecamer</title>
+      <link>/publication/dean-2017-strain/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dean-2017-strain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

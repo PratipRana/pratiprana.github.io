@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Sen | Academic</title>
+    <link>/author/a.-sen/</link>
+      <atom:link href="/author/a.-sen/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Sen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Sen</title>
+      <link>/author/a.-sen/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced and selective acetone sensing properties of SnO2-MWCNT nanocomposites: Promising materials for diabetes sensor</title>
+      <link>/publication/narjinary-2017-enhanced/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/narjinary-2017-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Ti doping on the structural, electrical and magnetic properties of GaFeO3</title>
+      <link>/publication/sen-2016-effect/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/sen-2016-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocrystalline gallium ferrite: A novel material for sensing very low concentration of alcohol vapour</title>
+      <link>/publication/sen-2015-nanocrystalline/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sen-2015-nanocrystalline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonochemically prepared nanosized BiFeO3 as novel SO2 sensor</title>
+      <link>/publication/das-2015-sonochemically/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/das-2015-sonochemically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis, characterization and vapour sensing properties of nanosized ZnFe2O4</title>
+      <link>/publication/maharajan-2014-synthesis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/maharajan-2014-synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
