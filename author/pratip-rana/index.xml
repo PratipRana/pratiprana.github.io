@@ -5,12 +5,124 @@
     <link>/author/pratip-rana/</link>
       <atom:link href="/author/pratip-rana/index.xml" rel="self" type="application/rss+xml" />
     <description>Pratip Rana</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/pratip-rana/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pratip Rana</title>
       <link>/author/pratip-rana/</link>
     </image>
+    
+    <item>
+      <title>Predicting Supramolecular Structure from the Statistics of Individual Molecular Events</title>
+      <link>/publication/pilkiewicz-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pilkiewicz-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Assembly from a Single-Molecule Perspective</title>
+      <link>/publication/pilkiewicz-2019-assembly/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pilkiewicz-2019-assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A game theoretic approach to deciphering the dynamics of amyloid- Ab aggregation along competing pathways</title>
+      <link>/publication/ghosh-2019-game/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ghosh-2019-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the Common Molecular Basis in Alzheimer’s and Parkinson’s Diseases</title>
+      <link>/publication/rana-2019-evaluation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rana-2019-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Communication and Cellular Signaling from an Information-Theory Perspective</title>
+      <link>/publication/pilkiewicz-2019-molecular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/pilkiewicz-2019-molecular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent advances on constraint-based models by integrating machine learning</title>
+      <link>/publication/rana-2019-recent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rana-2019-recent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Smart Healthcare Portal for Clinical Decision Making and Precision Medicine</title>
+      <link>/publication/nalluri-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nalluri-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking the communication fidelity of biomolecular signaling cascades featuring pseudo-one-dimensional transport</title>
+      <link>/publication/rana-2018-benchmarking/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rana-2018-benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cause and consequence of Aβ – Lipid interactions in Alzheimer disease pathogenesis</title>
+      <link>/publication/rangachari-2018-cause/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rangachari-2018-cause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propagation of an Aβ Dodecamer Strain Involves a Three-Step Mechanism and a Key Intermediate</title>
+      <link>/publication/dean-2018-propagation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dean-2018-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining causal miRNAs and their signaling cascade in diseases using an influence diffusion model</title>
+      <link>/publication/nalluri-2017-determining/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/nalluri-2017-determining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatty Acid Concentration and Phase Transitions Modulate Aβ Aggregation Pathways</title>
+      <link>/publication/rana-2017-fatty/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rana-2017-fatty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strain-specific fibril propagation by an Aβ dodecamer</title>
+      <link>/publication/dean-2017-strain/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/dean-2017-strain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining influential miRNA targets in diseases using influence diffusion model</title>
+      <link>/publication/nalluri-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/nalluri-2015/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
