@@ -5,12 +5,30 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 21:44:27 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Protein Aggregation Dynamics in Alzheimer&#39;s Disease</title>
+      <link>/project/protein-aggregation-dynamics-in-alzheimers-disease/</link>
+      <pubDate>Tue, 15 Sep 2020 21:44:27 -0400</pubDate>
+      <guid>/project/protein-aggregation-dynamics-in-alzheimers-disease/</guid>
+      <description>&lt;p&gt;Alzheimer’s disease (AD) is a complex neurodegenerative disorder, clinically characterized by a gradual decline in memory and impairment of other cognitive functions like communication, movement, higher visual processing, and language inability. Polymorphism among amyloid-β (Aβ) aggregates are emerging as the main contributors to the observed phenotypic diversity in sporadic Alzheimer&amp;rsquo;s disease (sAD). Aggregation of Aβ is susceptible to several heterotypic factors, and lipids (LDs) are the most important physiological agents to interact with and modulate Aβ aggregation. Therefore, understanding the mechanism of how LDs modulate Aβ aggregation to generate polymorphic strains along competing pathways is crucial for understanding AD pathogenesis as small-sized oligomer believed to be a key cause of neural loss in AD patients. We have used the game theory model to abstract the mass-action based non-linear, coupled dynamical system of competing pathways of aggregation. Through analysis, we found higher LD concentration leads to the generation of more micelle-bound oligomers (promoting the off-pathway of aggregation), higher levels of dilution of the medium result in dissociating micelle bound oligomers enabling higher conversion to fibrils (promoting the traditional on-pathway of aggregation). These models were subsequently validated by our previously developed ensemble kinetics simulations (EKS) that use ordinary differential equations based models of the competing pathways to estimate the rate constants of converting oligomers between on- and off-pathway aggregates&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular_communication</title>
+      <link>/project/molecular_communication/</link>
+      <pubDate>Tue, 15 Sep 2020 21:25:00 -0400</pubDate>
+      <guid>/project/molecular_communication/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Synthetic biologists endeavor to predict the increasing complexity of multistep signaling cascades impacts the fidelity of molecular signaling, whereby information about the cellular state is often transmitted with proteins that diffuse by a pseudo-one-dimensional stochastic process. This process raises the question of how the cell leverages passive transport mechanisms to distinguish informative signals from the intrinsic noise of diffusion. We addressed this problem by using a one-dimensional drift-diffusion model to derive an approximate lower bound on the degree of facilitation needed to achieve single-bit informational efficiency in signaling cascades as a function of their length. Within the assumptions of our model, we found that a universal curve of the Shannon-Hartley form describes the information transmitted by a signaling chain of arbitrary length and depends upon only a small number of physically measurable parameters. This methodology enables our model to be used in conjunction with experimental measurements to aid in the selective design of biomolecular systems that can overcome noise to function reliably, even at the single-cell level.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Predicting Supramolecular Structure from the Statistics of Individual Molecular Events</title>
