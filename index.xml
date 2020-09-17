@@ -5,12 +5,55 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 21:44:27 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2020 19:12:53 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Top CS Conferences</title>
+      <link>/post/top-cs-conferences/</link>
+      <pubDate>Thu, 17 Sep 2020 19:12:53 -0400</pubDate>
+      <guid>/post/top-cs-conferences/</guid>
+      <description>&lt;p&gt;NeurIPS : &lt;strong&gt;June 3 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ICML : &lt;strong&gt;Jan. 7, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ICLR : &lt;strong&gt;2nd Oct 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ACL : &lt;strong&gt;December 9, 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CVPR : &lt;strong&gt;16 Nov 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ECCV : &lt;strong&gt;5 March 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;EMNLP : &lt;strong&gt;June 3 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;RECOMB : &lt;strong&gt;October 30, 2020&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;JMLR (Journal of Machine Learning Research)&lt;/p&gt;
+&lt;p&gt;ICCV :&lt;/p&gt;
+&lt;p&gt;SIGKDD : &lt;strong&gt;Feb 13&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;CCS :&lt;/p&gt;
+&lt;p&gt;INFOCOM :&lt;/p&gt;
+&lt;p&gt;SIGCOMM :&lt;/p&gt;
+&lt;p&gt;SIGMOD :&lt;/p&gt;
+&lt;p&gt;NDSS :&lt;/p&gt;
+&lt;p&gt;STOC :&lt;/p&gt;
+&lt;p&gt;ISIT :&lt;/p&gt;
+&lt;p&gt;HPCA :&lt;/p&gt;
+&lt;p&gt;MobiCom :&lt;/p&gt;
+&lt;p&gt;IPDPS :&lt;/p&gt;
+&lt;p&gt;ISMB/ECCB: &lt;strong&gt;22 April&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The 36th ACM/SIGAPP Symposium On Applied Computing:&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/lyangwww/resources&#34;&gt;https://sites.google.com/site/lyangwww/resources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jackietseng.github.io/conference_call_for_paper/conferences.html&#34;&gt;https://jackietseng.github.io/conference_call_for_paper/conferences.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self Assembly From a Single Molecule Perspective</title>
+      <link>/project/self-assembly-from-a-single-molecule-perspective/</link>
+      <pubDate>Wed, 16 Sep 2020 22:16:14 -0400</pubDate>
+      <guid>/project/self-assembly-from-a-single-molecule-perspective/</guid>
+      <description>&lt;p&gt;As manipulating the self-assembly of supramolecular and nanoscale constructs at the single-molecule level increasingly becomes the norm, new theoretical scaffolds must be erected to replace the thermodynamic and kinetics based models used to describe traditional bulk phase active syntheses. Like the statistical mechanics underpinning these latter theories, the framework we propose uses state probabilities as its fundamental objects, but, contrary to the Gibbsian paradigm, our theory directly modeled the transition probabilities between the initial and final states of a trajectory, foregoing the need to assume ergodicity. We leveraged these probabilities in the context of molecular self-assembly to compute the overall likelihood that a specified experimental condition leads to a desired structural outcome. We demonstrated the application of this framework to a simple toy model in which three identical molecules can assemble in one of two ways and conclude with a discussion of how the high computational cost of such a fine-grained model can be overcome through approximation when extending it to larger, more complex systems&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Protein Aggregation Dynamics in Alzheimer&#39;s Disease</title>

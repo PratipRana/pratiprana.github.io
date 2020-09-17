@@ -5,12 +5,21 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Sep 2020 21:44:27 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 22:16:14 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Self Assembly From a Single Molecule Perspective</title>
+      <link>/project/self-assembly-from-a-single-molecule-perspective/</link>
+      <pubDate>Wed, 16 Sep 2020 22:16:14 -0400</pubDate>
+      <guid>/project/self-assembly-from-a-single-molecule-perspective/</guid>
+      <description>&lt;p&gt;As manipulating the self-assembly of supramolecular and nanoscale constructs at the single-molecule level increasingly becomes the norm, new theoretical scaffolds must be erected to replace the thermodynamic and kinetics based models used to describe traditional bulk phase active syntheses. Like the statistical mechanics underpinning these latter theories, the framework we propose uses state probabilities as its fundamental objects, but, contrary to the Gibbsian paradigm, our theory directly modeled the transition probabilities between the initial and final states of a trajectory, foregoing the need to assume ergodicity. We leveraged these probabilities in the context of molecular self-assembly to compute the overall likelihood that a specified experimental condition leads to a desired structural outcome. We demonstrated the application of this framework to a simple toy model in which three identical molecules can assemble in one of two ways and conclude with a discussion of how the high computational cost of such a fine-grained model can be overcome through approximation when extending it to larger, more complex systems&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Protein Aggregation Dynamics in Alzheimer&#39;s Disease</title>

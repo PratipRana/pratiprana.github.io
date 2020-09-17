@@ -4,12 +4,27 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-15T21:44:27-04:00</lastmod>
+    <lastmod>2020-09-17T19:12:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-17T19:12:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/top-cs-conferences/</loc>
+    <lastmod>2020-09-17T19:12:53-04:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-09-15T21:44:27-04:00</lastmod>
+    <lastmod>2020-09-16T22:16:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/self-assembly-from-a-single-molecule-perspective/</loc>
+    <lastmod>2020-09-16T22:16:14-04:00</lastmod>
   </url>
   
   <url>
@@ -609,10 +624,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
   </url>
   
   <url>
